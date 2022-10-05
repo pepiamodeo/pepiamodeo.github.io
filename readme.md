@@ -5,4 +5,4 @@ Como biólogo y artista sonoro, me interesa indagar en la interacción entre cie
 
 ***
 
-[![L2N](https://pepiamodeo.github.io/img/L2N_portada_fl.jpg)](https://pepiamodeo.github.io/es/lima2november.md)
+[![L2N](https://pepiamodeo.github.io/img/L2N_portada_fl.jpg)](https://pepiamodeo.github.io/es/lima2november.html)
