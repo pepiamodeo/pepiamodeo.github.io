@@ -1,4 +1,12 @@
 
+
+title: Pepi Amodeo
+logo: /img/isla_invisible_76082.jpg
+description: biodiversidad, grabaciones de campo, datos, arte sonoro, música
+theme: jekyll-theme-minimal
+
+
+
 ![L2N](https://pepiamodeo.github.io/img/L2N_portada_fl.jpg)
 
 *** 
