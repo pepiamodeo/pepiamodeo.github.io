@@ -2,7 +2,7 @@
 ---
 title: Pepi Amodeo
 logo: /img/isla_invisible_76082.jpg
-description: biodiversidad, grabaciones de campo, datos, arte sonoro, música
+description: arte sonoro
 theme: jekyll-theme-minimal
 ---
 
