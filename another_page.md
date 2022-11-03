@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hola!
-logo: /img/L2N_portada.fl.jpg
+logo: /img/L2N_portada_fl.jpg
 description: hola, hola
 ---
 
