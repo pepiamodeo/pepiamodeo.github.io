@@ -1,6 +1,7 @@
 
 ---
 layout: default
+site.title: "hello"
 ---
 
 ***
