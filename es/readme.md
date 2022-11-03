@@ -1,6 +1,6 @@
 ---
-layout: page
-page.title: hello
+layout: default
+title: hello
 ---
 
 ***
