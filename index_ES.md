@@ -1,6 +1,8 @@
 ---
-layout: default
-
+layout: page
+title: Pepi Amodeo
+logo: /img/isla_invisible_76082.jpg
+description: arte sonoro, grabaciones de campo, datos, biodiversidad
 ---
 
 ***
@@ -12,3 +14,5 @@ Esta web es un compendio de mis proyectos que intentan ir por ese camino.
 ***
 
 ![L2N](https://pepiamodeo.github.io/img/L2N_portada_fl.jpg)
+
+[Inicio](./)
