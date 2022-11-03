@@ -4,3 +4,4 @@ logo: /img/isla_invisible_76082.jpg
 description: biodiversidad, grabaciones de campo, datos, arte sonoro, música
 theme: jekyll-theme-minimal
 encoding: UTF-8
+markdown: kramdown
