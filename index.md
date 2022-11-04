@@ -22,6 +22,8 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 ****
 
+#### Field Recordings
+
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=4216167815/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/izlan-jour">Izlan - Jour by Pepi Amodeo</a></iframe>
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=553592428/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/izlan-nuit">Izlan - Nuit by Pepi Amodeo</a></iframe>
@@ -29,9 +31,14 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 ****
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/514725627&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true" seamless><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a> · <a href="https://soundcloud.com/pepiamodeo/loyca" title="loyca" target="_blank" style="color: #cccccc; text-decoration: none;">loyca</a></div></iframe>
+#### Electroacoustics
 
+<section>
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/514725627&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true" seamless></iframe>
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+<a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a> · <a href="https://soundcloud.com/pepiamodeo/loyca" title="loyca" target="_blank" style="color: #cccccc; text-decoration: none;">loyca</a></div>
+</section>
 
-
-
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+<a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a> · <a href="https://soundcloud.com/pepiamodeo/loyca" title="loyca" target="_blank" style="color: #cccccc; text-decoration: none;">loyca</a></div>
 
