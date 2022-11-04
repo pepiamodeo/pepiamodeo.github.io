@@ -2,16 +2,12 @@
 layout: default
 ---
 
-[![English](https://pepiamodeo.github.io/img/united-kingdom.png)](https://pepiamodeo.github.io/index.html)
- / 
-[![Español](https://pepiamodeo.github.io/img/argentina.png)](https://pepiamodeo.github.io/es/index.html)
-
 <a href="https://pepiamodeo.github.io/index.html">
-<img alt="EN" src="img/united-kingdom.png" width="32" height="32">
+<img alt="EN" src="img/united-kingdom.png" width="32" height="32" align="right">
 </a>
       
 <a href="https://pepiamodeo.github.io/es/index.html">
-<img alt="ES" src="img/argentina.png" width="32" height="32">
+<img alt="ES" src="img/argentina.png" width="32" height="32" align="right">
 </a>
 
 ## Welcome
