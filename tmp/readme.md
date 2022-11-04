@@ -35,3 +35,4 @@ As a biologist and sound artist, me interesa indagar en la interacción entre ci
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
 <a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a> · <a href="https://soundcloud.com/pepiamodeo/loyca" title="loyca" target="_blank" style="color: #cccccc; text-decoration: none;">loyca</a></div>
 
+<a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a></p>
