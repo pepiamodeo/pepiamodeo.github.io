@@ -18,3 +18,5 @@ As a biologist and sound artist, me interesa indagar en la interacción entre ci
 
 
 ****
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
