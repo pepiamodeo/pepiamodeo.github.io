@@ -23,8 +23,7 @@ Here you will find a wide variety of projects where I participate as a musician 
 ****
 
 #### Field Recordings
-
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
+<p><iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe><a href="https://soundcloud.com/pepiamodeo" title="Pepi Amodeo" target="_blank" style="color: #cccccc; text-decoration: none;">Pepi Amodeo</a></p>
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=4216167815/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/izlan-jour">Izlan - Jour by Pepi Amodeo</a></iframe>
 
