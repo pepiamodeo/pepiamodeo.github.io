@@ -19,4 +19,7 @@ As a biologist and sound artist, me interesa indagar en la interacción entre ci
 
 ****
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
+<iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
+<iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/album=4216167815/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/izlan-jour">Izlan - Jour by Pepi Amodeo</a></iframe>
+<iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/album=553592428/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/izlan-nuit">Izlan - Nuit by Pepi Amodeo</a></iframe>
+<iframe style="border: 0; width: 170px; height: 170px;" src="https://bandcamp.com/EmbeddedPlayer/album=681031787/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/poemas-ornitol-gicos">Poemas Ornitológicos by Pepi Amodeo</a></iframe>
