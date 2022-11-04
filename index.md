@@ -18,5 +18,3 @@ As a biologist and sound artist, me interesa indagar en la interacción entre ci
 
 
 ****
-
-[Home](./)
