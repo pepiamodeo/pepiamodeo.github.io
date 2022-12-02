@@ -37,3 +37,10 @@ Here you will find a wide variety of projects where I participate as a musician 
 #### Electroacoustics
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/514725627&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true" seamless></iframe>
+
+
+****
+
+#### Photos
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/130419420@N08" title=""><img src="https://live.staticflickr.com/65535/50180581381_88fbe066e0.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
