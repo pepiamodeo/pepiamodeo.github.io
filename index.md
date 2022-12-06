@@ -51,6 +51,12 @@ Here you will find a wide variety of projects where I participate as a musician 
 <iframe style="border: 0; width: 160px; height: 160px;"
 src="https://www.youtube.com/embed/3ofOALqSPAc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe style="border: 0; width: 160px; height: 160px;"
+src="https://www.youtube.com/embed/guzIFMn5F3g?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border: 0; width: 160px; height: 160px;"
+src="https://www.youtube.com/embed/sTrqHW2tyZQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ****
 
 #### Photos
