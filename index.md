@@ -42,6 +42,8 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/track=2203068407/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://ciclobahainsonora.bandcamp.com/track/soundscape-mix-00">Soundscape Mix 0.0 by Pepi Amodeo</a></iframe>
 
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197492202&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ****
 
 #### Music
@@ -59,7 +61,10 @@ src="https://www.youtube.com/embed/sTrqHW2tyZQ?controls=0" title="YouTube video 
 
 ****
 
-#### Music and Sound Design for Videogames
+#### Music and Sound Design for Videogames and animation
+
+<iframe style="border: 0; width: 160px; height: 160px;" 
+src="https://www.youtube.com/embed/V2R19qXxySE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
 src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/154303208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -69,6 +74,14 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
 src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227507320&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+****
+
+#### Music and Sound Design for dance
+
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://www.youtube.com/embed/isv_F-HStBc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://player.vimeo.com/video/334188988?h=33bd517cf4" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ****
 
