@@ -32,6 +32,8 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=681031787/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/poemas-ornitol-gicos">Poemas Ornitológicos by Pepi Amodeo</a></iframe>
 
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/110647399&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ****
 
 #### Electroacoustics
@@ -89,6 +91,18 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/22
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://player.vimeo.com/video/334188988?h=33bd517cf4" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+****
+
+#### Bio
+
+Here is my academic profile on biological sciences and data analysis.
+
+<a href="https://www.researchgate.net/profile/Martin-Amodeo">
+         <img alt="instagram" src="img/researchgate.png" width="32" height="32">
+      </a>
+      <a href="https://github.com/pepiamodeo">
+         <img alt="github" src="img/github.png" width="32" height="32">
+      </a>
 ****
 
 #### Photos
