@@ -59,6 +59,19 @@ src="https://www.youtube.com/embed/sTrqHW2tyZQ?controls=0" title="YouTube video 
 
 ****
 
+#### Music and Sound Design for Videogames
+
+<iframe style="border: 0; width: 160px; height: 160px;" 
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/154303208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe style="border: 0; width: 160px; height: 160px;" 
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/155564290&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe style="border: 0; width: 160px; height: 160px;" 
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227507320&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+****
+
 #### Photos
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/130419420@N08" title=""><img src="https://live.staticflickr.com/65535/50180581381_88fbe066e0.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
