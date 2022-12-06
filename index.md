@@ -40,6 +40,14 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197941171&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/track=2203068407/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://ciclobahainsonora.bandcamp.com/track/soundscape-mix-00">Soundscape Mix 0.0 by Pepi Amodeo</a></iframe>
+
+****
+
+#### Music
+
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/53925519&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ****
 
 #### Photos
