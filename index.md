@@ -9,7 +9,6 @@ layout: default
 <a href="https://pepiamodeo.github.io/es/index.html">
 <img alt="ES" src="img/argentina.png" width="32" height="32" align="right">
 </a></p>
-<br>
 
 ****
 
