@@ -97,30 +97,28 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/22
 
 If you are interested on my academic profile on biological sciences and data analysis, here are some links.
 
-      <a href="https://www.researchgate.net/profile/Martin-Amodeo">
-         <img alt="researchgate" src="img/researchgate.png" width="32" height="32">
-      </a>
-
-      <a href="https://github.com/pepiamodeo">
-         <img alt="github" src="img/github.png" width="32" height="32">
-      </a>
+<a href="https://www.researchgate.net/profile/Martin-Amodeo">
+<img alt="researchgate" src="img/researchgate.png" width="32" height="32">
+</a>
+<a href="https://github.com/pepiamodeo">
+<img alt="github" src="img/github.png" width="32" height="32">
+</a>
 
 ****
 
 #### Games
 
-
 I´m a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BBG.
 
-      <a href="https://boardgamegeek.com/user/pepiamodeo">
-         <img alt="bgg" src="img/bgg.png" width="32" height="32">
-      </a>
+<a href="https://boardgamegeek.com/user/pepiamodeo">
+<img alt="bgg" src="img/bgg.png" width="32" height="32">
+</a>
 
 I love narrative videogames. Here you can see my reviews on Steam.
 
-      <a href="https://steamcommunity.com/id/pepiamodeo/reviews">
-         <img alt="steam" src="img/steam.png" width="32" height="32">
-      </a>
+<a href="https://steamcommunity.com/id/pepiamodeo/reviews">
+<img alt="steam" src="img/steam.png" width="32" height="32">
+</a>
 
 ****
 
