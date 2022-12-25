@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<p>Language:</p>
+<p align="right">Language:
 <a href="https://pepiamodeo.github.io/index.html">
 <img alt="EN" src="img/united-kingdom.png" width="32" height="32" align="right">
 </a>
 <a href="https://pepiamodeo.github.io/es/index.html">
 <img alt="ES" src="img/argentina.png" width="32" height="32" align="right">
-</a>
+</a></p>
 <br>
 
 ****
