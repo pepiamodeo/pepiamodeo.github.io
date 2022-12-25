@@ -100,9 +100,10 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/22
 
 Mi perfil académico en ciencias biológicas y análisis de datos.
 
-<a href="https://www.researchgate.net/profile/Martin-Amodeo">
-         <img alt="instagram" src="img/researchgate.png" width="32" height="32">
+      <a href="https://www.researchgate.net/profile/Martin-Amodeo">
+         <img alt="researchgate" src="img/researchgate.png" width="32" height="32">
       </a>
+      
       <a href="https://github.com/pepiamodeo">
          <img alt="github" src="img/github.png" width="32" height="32">
       </a>
@@ -113,14 +114,14 @@ Mi perfil académico en ciencias biológicas y análisis de datos.
 
 Soy amante de los juegos de mesa modernos. Me gustan preferentemente los euros medio pesados. Esta es mi ludoteca en BBG.
 
-<a href="https://boardgamegeek.com/user/pepiamodeo">
+      <a href="https://boardgamegeek.com/user/pepiamodeo">
          <img alt="bgg" src="img/bgg.png" width="32" height="32">
       </a>
 
-No soy un gamer, pero me gustan los videojuegos narrativos. Estas son algunas de mis reseñas en Steam.
+Me gustan los videojuegos narrativos. Estas son algunas de mis reseñas en Steam.
 
-<a href="https://steamcommunity.com/id/pepiamodeo/reviews">
-         <img alt="bgg" src="img/steam.png" width="32" height="32">
+      <a href="https://steamcommunity.com/id/pepiamodeo/reviews">
+         <img alt="steam" src="img/steam.png" width="32" height="32">
       </a>
 
 ****
