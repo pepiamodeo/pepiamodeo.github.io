@@ -5,6 +5,7 @@ logo: /img/isla_invisible_76082.jpg
 description: arte sonoro, grabaciones de campo, datos, biodiversidad, juegos
 ---
 
+Idioma:
 <a href="https://pepiamodeo.github.io/index.html">
 <img alt="EN" src="../img/united-kingdom.png" width="32" height="32" align="right">
 </a>
