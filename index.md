@@ -110,7 +110,7 @@ If you are interested on my academic profile on biological sciences and data ana
 #### Games
 
 
-I`m a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BBG.
+I´m a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BBG.
 
       <a href="https://boardgamegeek.com/user/pepiamodeo">
          <img alt="bgg" src="img/bgg.png" width="32" height="32">
