@@ -32,7 +32,7 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=681031787/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/poemas-ornitol-gicos">Poemas Ornitológicos by Pepi Amodeo</a></iframe>
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/110647399&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/110647399&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 ****
 
@@ -40,17 +40,17 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/514725627&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true" seamless></iframe>
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197941171&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197941171&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=flase&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/track=2203068407/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://ciclobahainsonora.bandcamp.com/track/soundscape-mix-00">Soundscape Mix 0.0 by Pepi Amodeo</a></iframe>
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197492202&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197492202&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 ****
 
-#### Music
+#### Music - Progressive Rock
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/53925519&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe style="border: 0; width: 160px; height: 160px;" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/53925519&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;"
 src="https://www.youtube.com/embed/3ofOALqSPAc?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -69,19 +69,19 @@ src="https://www.youtube.com/embed/sTrqHW2tyZQ?controls=0" title="YouTube video 
 src="https://www.youtube.com/embed/V2R19qXxySE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259951358&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259951358&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259950460&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259950460&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/154303208&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/154303208&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/155564290&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/155564290&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 <iframe style="border: 0; width: 160px; height: 160px;" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227507320&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227507320&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
 ****
 
@@ -95,7 +95,7 @@ src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/22
 
 #### Bio
 
-Here is my academic profile on biological sciences and data analysis.
+If you are interested on my academic profile on biological sciences and data analysis, here are some links.
 
 <a href="https://www.researchgate.net/profile/Martin-Amodeo">
          <img alt="instagram" src="img/researchgate.png" width="32" height="32">
@@ -103,7 +103,24 @@ Here is my academic profile on biological sciences and data analysis.
       <a href="https://github.com/pepiamodeo">
          <img alt="github" src="img/github.png" width="32" height="32">
       </a>
-      
+
+****
+
+#### Games
+
+
+I`m a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BBG.
+
+<a href="https://boardgamegeek.com/user/pepiamodeo">
+         <img alt="bgg" src="img/bgg.png" width="32" height="32">
+      </a>
+
+I love narrative videogames. Here you can see my reviews on Steam.
+
+<a href="https://steamcommunity.com/id/pepiamodeo/reviews">
+         <img alt="bgg" src="img/steam.png" width="32" height="32">
+      </a>
+
 ****
 
 #### Photos
