@@ -4,10 +4,10 @@ layout: default
 
 <p align="right">Language:
 <a href="https://pepiamodeo.github.io/index.html">
-<img alt="EN" src="./img/united-kingdom.png" width="32" height="32" align="right">
+<img alt="EN" src=".../img/united-kingdom.png" width="32" height="32" align="right">
 </a>
 <a href="https://pepiamodeo.github.io/es/index.html">
-<img alt="ES" src="./img/argentina.png" width="32" height="32" align="right">
+<img alt="ES" src=".../img/argentina.png" width="32" height="32" align="right">
 </a>
 </p>
 
@@ -20,7 +20,6 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 ****
 
-#### Field Recordings
+#### Bandurrias
 
-<iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/track/bandurrias"></a></iframe>
-
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2611238221/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
