@@ -22,7 +22,7 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 #### Bandurrias
 
-![bandurria](_MG_9167.jpg)
+![bandurria](MG_9167.jpg)
 
 <img alt="ES" src="../../photo/_MG_9167.jpg" width="800" height="800" align="right">
 
