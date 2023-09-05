@@ -16,9 +16,9 @@ h<-image_info(image)[3] # height
 
 if(w>h){
   # Resize the image to a fixed width (maintaining aspect ratio)
-  image_resized <- image_scale(image, "640x")
+  image_resized <- image_scale(image, "640x") #1280x
 }else{
-  image_resized <- image_scale(image, "640y")
+  image_resized <- image_scale(image, "640y") #640y
 }
 
 unlink(paste0(filepath,filename))

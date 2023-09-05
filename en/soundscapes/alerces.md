@@ -24,7 +24,7 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 ![bandurria](../../photo/MG_9167.jpg)
 
-<img alt="ES" src="../../photo/_MG_9167.jpg" width="800" height="800" align="right">
+<img alt="ES" src="../../photo/MG_9167.jpg" width="640" align="right">
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2611238221/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
