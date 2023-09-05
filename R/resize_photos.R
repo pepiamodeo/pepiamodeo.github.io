@@ -1,11 +1,11 @@
 
 library(magick)
 
-files<-dir("./photo")
+files<-dir("./photo_raw")
 
 for (file in files){
-  
-  # Load the image
+
+# Load the image
 filename<-file
 filepath<-"./photo/"
 
@@ -21,6 +21,7 @@ if(w>h){
   image_resized <- image_scale(image, "640y")
 }
 
+unlink(paste0(filepath,filename))
 # Save the resized image as a JPG
-image_write(image_resized, path = paste0(filepath,filename), format = "jpg")
+image_write(image_resized, path = paste0(filepath,substr(filename,2,nchar(filename))), format = "jpg")
 }
