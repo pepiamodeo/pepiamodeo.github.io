@@ -7,7 +7,7 @@ for (file in files){
 
 # Load the image
 filename<-file
-filepath<-"./photo/"
+filepath<-"./photo_raw/"
 
 # Load the image
 image <- image_read(paste0(filepath,filename))
@@ -16,12 +16,12 @@ h<-image_info(image)[3] # height
 
 if(w>h){
   # Resize the image to a fixed width (maintaining aspect ratio)
-  image_resized <- image_scale(image, "640x") #1280x
+  image_resized <- image_scale(image, "1280x") #1280 width
 }else{
-  image_resized <- image_scale(image, "640y") #640y
+  image_resized <- image_scale(image, "x1280") #640 height
 }
 
-unlink(paste0(filepath,filename))
+#unlink(paste0(filepath,filename))
 # Save the resized image as a JPG
-image_write(image_resized, path = paste0(filepath,substr(filename,2,nchar(filename))), format = "jpg")
+image_write(image_resized, path = paste0("./photo/",substr(filename,2,nchar(filename))), format = "jpg")
 }
