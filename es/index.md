@@ -112,7 +112,7 @@ Mi perfil académico en ciencias biológicas y análisis de datos.
 
 #### Games
 
-Soy amante de los juegos de mesa modernos. Me gustan preferentemente los euros medio pesados. Esta es mi ludoteca en BBG.
+Soy amante de los juegos de mesa modernos. Me gustan preferentemente los euros medio pesados. Esta es mi ludoteca en BGG.
 
 <a href="https://boardgamegeek.com/user/pepiamodeo">
 <img alt="bgg" src="../img/bgg.png" width="32" height="32">
