@@ -13,15 +13,13 @@ layout: default
 
 ****
 
-## as a biologist, i`m a programmer.
-## as a programmer, i`m a musician
-## as a musician, i`m a sound artist
-## as an artist, i´m a biologist
-## sorry it`s just me, not anybody else.
+## as a biologist, I´m a programmer
+## as a programmer, I´m a musician
+## as a musician, I´m a sound artist
+## as an artist, I´m a biologist
+## sorry it´s just me, not anybody else
 
-
-Welcome!
-This is my personal webpage where I share some of my projects related to **sound arts**, **music**, **data** and **biodiversity**.
+Welcome! This is my personal web page where I share some of my projects related to **sound arts**, **music**, **data** and **biodiversity**.
 
 I am a biologist and work with data on biodiversity and environmental science. I am a musician and sound designer. I´m interested in the interaction between science and arts with focus on biodiversity and soundscapes. I explore sounds in different nature-culture scenarios by means of contemplation, field recording, digital processing and their re-interpretation under different contexts.
 
