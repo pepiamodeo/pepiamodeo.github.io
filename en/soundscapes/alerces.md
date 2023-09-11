@@ -22,31 +22,54 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 #### Bandurrias
 
-![bandurria](../../photo/MG_9167.jpg)
-
-<img src="../../photo/MG_9167.jpg" width=200px height: auto>
-
-
+<img src="../../photo/MG_9167.jpg" width=250>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2611238221/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-
+<img src="../../photo/MG_5833.JPG" width="250">
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1818603113/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
+<img src="../../photo/MG_5883.JPG" width="250">
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=4042333825/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_5833.JPG" width="200">
-<img src="../../photo/MG_5883.JPG" width="200">
-<img src="../../photo/MG_5937.JPG" width="200">
-<img src="../../photo/MG_6034.JPG" width="200">
-<img src="../../photo/MG_6059.JPG" width="200">
-<img src="../../photo/MG_6182.JPG" width="200">
-<img src="../../photo/MG_6241.JPG" width="200">
-<img src="../../photo/MG_6288.JPG" width="200">
-<img src="../../photo/MG_6304.JPG" width="200">
-<img src="../../photo/MG_9183.JPG" width="200">
-<img src="../../photo/MG_9209.JPG" width="200">
-<img src="../../photo/MG_9305.JPG" width="200">
-<img src="../../photo/MG_9445.JPG" width="200">
-<img src="../../photo/MG_9462.JPG" width="200">
+<img src="../../photo/MG_5937.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=3009332904/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6034.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2438782256/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6059.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2227089749/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6182.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=587328427/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6241.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1834870318/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6288.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2243329694/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_6304.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2871134859/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_9183.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2981106985/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_9209.JPG" width="250">
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1486914212/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
+
+<img src="../../photo/MG_9305.JPG" width="250">
+<img src="../../photo/MG_9445.JPG" width="250">
+<img src="../../photo/MG_9462.JPG" width="250">
