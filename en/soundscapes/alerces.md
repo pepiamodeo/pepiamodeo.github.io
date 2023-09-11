@@ -28,11 +28,11 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 
 
-img src="https://ik.imagekit.io/ikmedia/backlit.jpg" 
+<img src="https://ik.imagekit.io/ikmedia/backlit.jpg" 
 	 style="object-fit:contain;
             width:200px;
             height:300px;
-            border: solid 1px #CCC"/
+            border: solid 1px #CCC"/>
 
 
 
