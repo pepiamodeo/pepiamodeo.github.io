@@ -80,7 +80,7 @@ A chucao (_Scelorchilus rubecula_) approaches slowly, and its song reverberates 
 <img src="../../photo/MG_6182.JPG" width="200">
 
 <img src="../../photo/MG_6304.JPG" width="200">
-<img src="../../photo/MG_9183.JPG" width="200">
+<img src="../../photo/MG_5883.JPG" width="200">
 
 <img src="../../photo/MG_9462.JPG" width="200">
 <img src="../../photo/MG_9167.jpg" width="200">
