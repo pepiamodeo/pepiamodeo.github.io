@@ -13,11 +13,13 @@ layout: default
 
 ****
 
-## as a biologist, I´m a programmer
-## as a programmer, I´m a musician
-## as a musician, I´m a sound artist
-## as an artist, I´m a biologist
-## sorry it´s just me, not anybody else
+<p align="right">
+<h2>as a biologist, I ´ m a programmer</h2>
+<h2>as a programmer, I ´ m a musician</h2>
+<h2>as a musician, I ´ m a sound artist</h2>
+<h2>as an artist, I ´ m a biologist</h2>
+<h2>sorry it ´ s just me, not anybody else</h2>
+</p>
 
 Welcome! This is my personal web page where I share some of my projects related to **sound arts**, **music**, **data** and **biodiversity**.
 
