@@ -22,54 +22,68 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 #### Bandurrias
 
-<img src="../../photo/MG_9167.jpg" width=250>
+<img src="../../photo/MG_9167.jpg" width=200>
+<img src="../../photo/MG_5833.JPG" width="200">
+<img src="../../photo/MG_5883.JPG" width="200">
+<img src="../../photo/MG_5937.JPG" width="200">
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2611238221/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_5833.JPG" width="250">
+Black-faced ibis (_Theristicus melanopis_) in Villa Futalaufquen, a welcome. A dog barks in the distance.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1818603113/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_5883.JPG" width="250">
+House Wren (_Troglodytes aedon_), up close.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=4042333825/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_5937.JPG" width="250">
+In Villa Futalaufquen, the Patagonian wind impacts European poplar trees.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=3009332904/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6034.JPG" width="250">
+Hiking on a trail through reed beds beneath the canopy of Dombey's beeches.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2438782256/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6059.JPG" width="250">
+Irigoyen Waterfall recorded from above.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2227089749/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6182.JPG" width="250">
+Cascada River. A common diuca finch (Diuca diuca) sings in the foreground. Chainsaws and other birds in the distance.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=587328427/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6241.JPG" width="250">
+Hundreds of Patagonian thrushes (Turdus falklandii) create the texture of the dawn in a forest of Dombey's beeches, while other birds gradually appear.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1834870318/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6288.JPG" width="250">
+Waves on the sandy shore at Playa Blanca, Lake Futalaufquen. Night.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2243329694/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_6304.JPG" width="250">
+European bumblebee (Bombus terrestris) exploring the undergrowth.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2871134859/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_9183.JPG" width="250">
+The Patagonian wind impacts the tops of the Dombey's beeches forest canopy. The creaking of the trunks creates suspense in the undergrowth.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2981106985/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-<img src="../../photo/MG_9209.JPG" width="250">
+From the Torrecillas Glacier, a stream of water runs through the scree field to Lake Menéndez.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1486914212/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
+A chucao (Scelorchilus rubecula) approaches slowly, and its song reverberates in the forest of Dombey's beeches.
+
+
+<img src="../../photo/MG_6034.JPG" width="250">
+<img src="../../photo/MG_6059.JPG" width="250">
+<img src="../../photo/MG_6182.JPG" width="250">
+<img src="../../photo/MG_6241.JPG" width="250">
+<img src="../../photo/MG_6288.JPG" width="250">
+<img src="../../photo/MG_6304.JPG" width="250">
+<img src="../../photo/MG_9183.JPG" width="250">
+<img src="../../photo/MG_9209.JPG" width="250">
 <img src="../../photo/MG_9305.JPG" width="250">
 <img src="../../photo/MG_9445.JPG" width="250">
 <img src="../../photo/MG_9462.JPG" width="250">
