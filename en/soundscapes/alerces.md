@@ -23,7 +23,7 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 #### Bandurrias
 
 <img src="../../photo/MG_9167.jpg" width="200">
-<img src="../../photo/MG_5833.JPG" width="200">
+<img src="../../photo/MG_6288.JPG" width="200">
 <img src="../../photo/MG_5883.JPG" width="200">
 <img src="../../photo/MG_5937.JPG" width="200">
 
@@ -77,13 +77,14 @@ A chucao (_Scelorchilus rubecula_) approaches slowly, and its song reverberates 
 
 
 <img src="../../photo/MG_6034.JPG" width="200">
-<img src="../../photo/MG_6059.JPG" width="200">
 <img src="../../photo/MG_6182.JPG" width="200">
-<img src="../../photo/MG_6241.JPG" width="200">
-<img src="../../photo/MG_6288.JPG" width="200">
+
 <img src="../../photo/MG_6304.JPG" width="200">
 <img src="../../photo/MG_9183.JPG" width="200">
-<img src="../../photo/MG_9209.JPG" width="200">
-<img src="../../photo/MG_9305.JPG" width="200">
-<img src="../../photo/MG_9445.JPG" width="200">
+
 <img src="../../photo/MG_9462.JPG" width="200">
+<img src="../../photo/MG_5833.JPG" width="200">
+
+<img src="../../photo/MG_6059.JPG" width="200">
+<img src="../../photo/MG_6241.JPG" width="200">
+
