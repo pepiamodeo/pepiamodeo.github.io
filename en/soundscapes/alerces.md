@@ -22,7 +22,7 @@ _Alerces_ is a collection of field recordings made in Los Alerces National Park,
 
 #### Bandurrias
 
-<img src="../../photo/MG_9167.jpg" width=200>
+<img src="../../photo/MG_9167.jpg" width="200">
 <img src="../../photo/MG_5833.JPG" width="200">
 <img src="../../photo/MG_5883.JPG" width="200">
 <img src="../../photo/MG_5937.JPG" width="200">
@@ -49,11 +49,11 @@ Irigoyen Waterfall recorded from above.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2227089749/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-Cascada River. A common diuca finch (Diuca diuca) sings in the foreground. Chainsaws and other birds in the distance.
+Cascada River. A common diuca finch (_Diuca diuca_) sings in the foreground. Chainsaws and other birds in the distance.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=587328427/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-Hundreds of Patagonian thrushes (Turdus falklandii) create the texture of the dawn in a forest of Dombey's beeches, while other birds gradually appear.
+Hundreds of Patagonian thrushes (_Turdus falklandii_) create the texture of the dawn in a forest of Dombey's beeches, while other birds gradually appear.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1834870318/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
@@ -61,7 +61,7 @@ Waves on the sandy shore at Playa Blanca, Lake Futalaufquen. Night.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2243329694/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-European bumblebee (Bombus terrestris) exploring the undergrowth.
+European bumblebee (_Bombus terrestris_) exploring the undergrowth.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=2871134859/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
@@ -73,17 +73,17 @@ From the Torrecillas Glacier, a stream of water runs through the scree field to 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=small/bgcol=ffffff/linkcol=0687f5/track=1486914212/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
-A chucao (Scelorchilus rubecula) approaches slowly, and its song reverberates in the forest of Dombey's beeches.
+A chucao (_Scelorchilus rubecula_) approaches slowly, and its song reverberates in the forest of Dombey's beeches.
 
 
-<img src="../../photo/MG_6034.JPG" width="250">
-<img src="../../photo/MG_6059.JPG" width="250">
-<img src="../../photo/MG_6182.JPG" width="250">
-<img src="../../photo/MG_6241.JPG" width="250">
-<img src="../../photo/MG_6288.JPG" width="250">
-<img src="../../photo/MG_6304.JPG" width="250">
-<img src="../../photo/MG_9183.JPG" width="250">
-<img src="../../photo/MG_9209.JPG" width="250">
-<img src="../../photo/MG_9305.JPG" width="250">
-<img src="../../photo/MG_9445.JPG" width="250">
-<img src="../../photo/MG_9462.JPG" width="250">
+<img src="../../photo/MG_6034.JPG" width="200">
+<img src="../../photo/MG_6059.JPG" width="200">
+<img src="../../photo/MG_6182.JPG" width="200">
+<img src="../../photo/MG_6241.JPG" width="200">
+<img src="../../photo/MG_6288.JPG" width="200">
+<img src="../../photo/MG_6304.JPG" width="200">
+<img src="../../photo/MG_9183.JPG" width="200">
+<img src="../../photo/MG_9209.JPG" width="200">
+<img src="../../photo/MG_9305.JPG" width="200">
+<img src="../../photo/MG_9445.JPG" width="200">
+<img src="../../photo/MG_9462.JPG" width="200">
