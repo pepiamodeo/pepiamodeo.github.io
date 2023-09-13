@@ -14,12 +14,14 @@ layout: default
 ****
 
 <p align="right">
-<h2>as a biologist, I´ m a programmer</h2>
-<h2>as a programmer, I´ m a musician</h2>
-<h2>as a musician, I´ m a sound artist</h2>
-<h2>as an artist, I´ m a biologist</h2>
-<h2>sorry it´ s just me, not anybody else</h2>
+<h3>as a biologist, I´ m a programmer</h3>
+<h3>as a programmer, I´ m a musician</h3>
+<h3>as a musician, I´ m a sound artist</h3>
+<h3>as an artist, I´ m a biologist</h3>
+<h3>sorry it´ s just me, not anybody else</h3>
 </p>
+
+****
 
 Welcome! This is my personal web page where I share some of my projects related to **sound arts**, **music**, **data** and **biodiversity**.
 
@@ -30,6 +32,8 @@ Here you will find a wide variety of projects where I participate as a musician 
 ****
 
 #### Field Recordings
+
+##### NEW ALBUM [Los Alerces](https://www.pepiamodeo.com/en/soundscapes/alerces)
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 

@@ -2,7 +2,7 @@
 layout: page
 title: Pepi Amodeo
 logo: /img/isla_invisible_76082.jpg
-description: arte sonoro, grabaciones de campo, datos, biodiversidad, juegos
+description: arte sonoro, grabaciones de campo, biodiversidad, datos 
 ---
 
 <p align="right">Idioma:
@@ -12,6 +12,16 @@ description: arte sonoro, grabaciones de campo, datos, biodiversidad, juegos
 <a href="https://pepiamodeo.github.io/es/index.html">
 <img alt="ES" src="../img/argentina.png" width="32" height="32" align="right">
 </a>
+</p>
+
+****
+
+<p align="right">
+<h3>como biólogo, programador</h3>
+<h3>como programador, músico</h3>
+<h3>como músico, artista sonoro</h3>
+<h3>como artista, biólogo</h3>
+<h3>perdón, solo soy yo, nadie más</h3>
 </p>
 
 ****
@@ -27,6 +37,8 @@ En esta web vas a encontrar una variedad de proyectos donde participo como músi
 ****
 
 #### Grabaciones de campo
+
+##### NUEVO ALBUM [Los Alerces](https://www.pepiamodeo.com/es/soundscapes/alerces)
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
