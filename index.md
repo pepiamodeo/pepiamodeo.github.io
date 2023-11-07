@@ -14,18 +14,18 @@ layout: default
 ****
 
 <p align="right">
-<h3>as a biologist, I´ m a programmer</h3>
-<h3>as a programmer, I´ m a musician</h3>
-<h3>as a musician, I´ m a sound artist</h3>
-<h3>as an artist, I´ m a biologist</h3>
-<h3>sorry it´ s just me, not anybody else</h3>
+<h3>As a biologist, I'm a programmer</h3>
+<h3>As a programmer, I'm a musician</h3>
+<h3>As a musician, I'm a sound artist</h3>
+<h3>As an artist, I'm a biologist</h3>
+<h3>Sorry it's just me, not anybody else</h3>
 </p>
 
 ****
 
 Welcome! This is my personal web page where I share some of my projects related to **sound arts**, **music**, **data** and **biodiversity**.
 
-I am a biologist and work with data on biodiversity and environmental science. I am a musician and sound designer. I´m interested in the interaction between science and arts with focus on biodiversity and soundscapes. I explore sounds in different nature-culture scenarios by means of contemplation, field recording, digital processing and their re-interpretation under different contexts.
+I'm a biologist and work with data on biodiversity and environmental science. I'm a musician and sound designer. I'm interested in the interaction between science and arts with focus on biodiversity and soundscapes. I explore sounds in different nature-culture scenarios by means of contemplation, field recording, digital processing and their re-interpretation under different contexts.
 
 Here you will find a wide variety of projects where I participate as a musician or sound artist... and of course, as a biologist. Hope you enjoy and please feel free to contact me if you are interested in some exchange or collaboration.
 
@@ -121,7 +121,7 @@ If you are interested on my academic profile on biological sciences and data ana
 
 #### Games
 
-I am a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BGG.
+I'm a fan of modern boardgames. I mostly like medium weight euro games. Here you can see my game collection on BGG.
 
 <a href="https://boardgamegeek.com/user/pepiamodeo">
 <img alt="bgg" src="img/bgg.png" width="32" height="32">
