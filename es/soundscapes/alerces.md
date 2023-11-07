@@ -22,7 +22,7 @@ Alerces es una colección de grabaciones de campo realizadas en el Parque Nacion
 
 ****
 
-#### Bandurrias
+#### Pistas
 
 <img src="../../photo/MG_5833.JPG" width="200">
 <img src="../../photo/MG_6288.JPG" width="200">
