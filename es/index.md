@@ -17,11 +17,11 @@ description: arte sonoro, grabaciones de campo, biodiversidad, datos
 ****
 
 <p align="right">
-<h3>como biólogo, programador</h3>
-<h3>como programador, músico</h3>
-<h3>como músico, artista sonoro</h3>
-<h3>como artista, biólogo</h3>
-<h3>perdón, solo soy yo, nadie más</h3>
+<h3>Como biólogo, programador</h3>
+<h3>Como programador, músico</h3>
+<h3>Como músico, artista sonoro</h3>
+<h3>Como artista, biólogo</h3>
+<h3>Perdón, solo soy yo, nadie más</h3>
 </p>
 
 ****
