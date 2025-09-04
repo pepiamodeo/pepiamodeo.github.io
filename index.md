@@ -136,4 +136,4 @@ I love narrative videogames. Here you can see my reviews on Steam.
 
 #### Photos
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/130419420@N08" title=""><img src="https://live.staticflickr.com/65535/50180581381_88fbe066e0.jpg" width="640" height="480" alt=""></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/130419420@N08" title=""><img src="https://live.staticflickr.com/8871/17322797409_ee01f688c9_b.jpg" width="640" height="480" alt=""></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
