@@ -32,11 +32,8 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 #### Soundscapes and Field Recordings
 
-[Alerces](https://www.pepiamodeo.com/en/soundscapes/alerces)
-
+[More info](https://www.pepiamodeo.com/en/soundscapes/alerces)
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
-
-[L2N](https://www.pepiamodeo.com/en/soundscapes/alerces)
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=2182430705/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/lima2november">Lima2November by Pepi Amodeo</a></iframe>
 

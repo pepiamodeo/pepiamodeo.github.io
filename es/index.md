@@ -21,7 +21,6 @@ description: arte sonoro, grabaciones de campo, biodiversidad, datos
 <h3>Como programador, músico</h3>
 <h3>Como músico, artista sonoro</h3>
 <h3>Como artista, biólogo</h3>
-<h3>Perdón, solo soy yo, nadie más</h3>
 </p>
 
 ****
@@ -36,9 +35,9 @@ En esta web vas a encontrar una variedad de proyectos donde participo como músi
 
 ****
 
-#### Grabaciones de campo
+#### Paisajes Sonoros y Grabaciones de Campo
 
-##### NUEVO ALBUM [Los Alerces](https://www.pepiamodeo.com/es/soundscapes/alerces)
+[Más info](https://www.pepiamodeo.com/es/soundscapes/alerces)
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
