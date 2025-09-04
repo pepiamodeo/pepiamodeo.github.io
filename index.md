@@ -18,7 +18,6 @@ layout: default
 <h3>As a programmer, I'm a musician</h3>
 <h3>As a musician, I'm a sound artist</h3>
 <h3>As an artist, I'm a biologist</h3>
-<h3>Sorry it's just me, not anybody else</h3>
 </p>
 
 ****
@@ -31,9 +30,9 @@ Here you will find a wide variety of projects where I participate as a musician 
 
 ****
 
-#### Field Recordings
+#### Soundscapes and Field Recordings
 
-##### NEW ALBUM [Los Alerces](https://www.pepiamodeo.com/en/soundscapes/alerces)
+[Alerces](https://www.pepiamodeo.com/en/soundscapes/alerces)
 
 <iframe style="border: 0; width: 160px; height: 160px;" src="https://bandcamp.com/EmbeddedPlayer/album=469038166/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pepiamodeo.bandcamp.com/album/alerces">Alerces by Pepi Amodeo</a></iframe>
 
